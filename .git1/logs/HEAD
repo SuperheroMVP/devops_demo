@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 3108d6d747b5d40cd8be6ec318fd0fb692db3c73 Hung Do <dohung28599@gmail.com> 1619020861 +0700	commit (initial): bao cao devops
+3108d6d747b5d40cd8be6ec318fd0fb692db3c73 0000000000000000000000000000000000000000 Hung Do <dohung28599@gmail.com> 1619020873 +0700	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 3108d6d747b5d40cd8be6ec318fd0fb692db3c73 Hung Do <dohung28599@gmail.com> 1619020873 +0700	Branch: renamed refs/heads/master to refs/heads/main
+3108d6d747b5d40cd8be6ec318fd0fb692db3c73 23f063b06ff467bde324ecde461961d935f11cdc Hung Do <dohung28599@gmail.com> 1619022901 +0700	commit: commit pom.xml
+23f063b06ff467bde324ecde461961d935f11cdc 23f063b06ff467bde324ecde461961d935f11cdc Hung Do <dohung28599@gmail.com> 1619026612 +0700	checkout: moving from main to master
